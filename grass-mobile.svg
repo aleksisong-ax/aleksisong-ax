@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="384" viewBox="0 0 600 384" role="img" aria-label="A chessboard with a path leading off it: off the clock">
+  <rect x="0" y="0" width="600" height="384" fill="#F2EEE2"/>
+  <rect x="0.5" y="0.5" width="599" height="383" fill="none" stroke="#C6C0AE" stroke-width="1"/>
+  <text x="28" y="38" font-family="ui-monospace,'SF Mono',Consolas,'Liberation Mono',Menlo,monospace" font-size="12" fill="#9A6B12" font-weight="700" letter-spacing="2.4">FIG. 03 · OFF THE BOARD</text>
+  <text x="572" y="38" font-family="ui-monospace,'SF Mono',Consolas,'Liberation Mono',Menlo,monospace" font-size="11" fill="#5C6058" letter-spacing="1.9" text-anchor="end">TOUCH GRASS</text>
+  <path d="M28 54H572" stroke="#9A6B12" stroke-width="1"/>
+  <rect x="28" y="84" width="132" height="132" fill="#E6E0CE"/>
+  <rect x="44.5" y="84" width="16.5" height="16.5" fill="#1B3446"/>
+  <rect x="77.5" y="84" width="16.5" height="16.5" fill="#1B3446"/>
+  <rect x="110.5" y="84" width="16.5" height="16.5" fill="#1B3446"/>
+  <rect x="143.5" y="84" width="16.5" height="16.5" fill="#1B3446"/>
+  <rect x="28" y="100.5" width="16.5" height="16.5" fill="#1B3446"/>
+  <rect x="61" y="100.5" width="16.5" height="16.5" fill="#1B3446"/>
+  <rect x="94" y="100.5" width="16.5" height="16.5" fill="#1B3446"/>
+  <rect x="127" y="100.5" width="16.5" height="16.5" fill="#1B3446"/>
+  <rect x="44.5" y="117" width="16.5" height="16.5" fill="#1B3446"/>
+  <rect x="77.5" y="117" width="16.5" height="16.5" fill="#1B3446"/>
+  <rect x="110.5" y="117" width="16.5" height="16.5" fill="#1B3446"/>
+  <rect x="143.5" y="117" width="16.5" height="16.5" fill="#1B3446"/>
+  <rect x="28" y="133.5" width="16.5" height="16.5" fill="#1B3446"/>
+  <rect x="61" y="133.5" width="16.5" height="16.5" fill="#1B3446"/>
+  <rect x="94" y="133.5" width="16.5" height="16.5" fill="#1B3446"/>
+  <rect x="127" y="133.5" width="16.5" height="16.5" fill="#1B3446"/>
+  <rect x="44.5" y="150" width="16.5" height="16.5" fill="#1B3446"/>
+  <rect x="77.5" y="150" width="16.5" height="16.5" fill="#1B3446"/>
+  <rect x="110.5" y="150" width="16.5" height="16.5" fill="#1B3446"/>
+  <rect x="143.5" y="150" width="16.5" height="16.5" fill="#1B3446"/>
+  <rect x="28" y="166.5" width="16.5" height="16.5" fill="#1B3446"/>
+  <rect x="61" y="166.5" width="16.5" height="16.5" fill="#1B3446"/>
+  <rect x="94" y="166.5" width="16.5" height="16.5" fill="#1B3446"/>
+  <rect x="127" y="166.5" width="16.5" height="16.5" fill="#1B3446"/>
+  <rect x="44.5" y="183" width="16.5" height="16.5" fill="#1B3446"/>
+  <rect x="77.5" y="183" width="16.5" height="16.5" fill="#1B3446"/>
+  <rect x="110.5" y="183" width="16.5" height="16.5" fill="#1B3446"/>
+  <rect x="143.5" y="183" width="16.5" height="16.5" fill="#1B3446"/>
+  <rect x="28" y="199.5" width="16.5" height="16.5" fill="#1B3446"/>
+  <rect x="61" y="199.5" width="16.5" height="16.5" fill="#1B3446"/>
+  <rect x="94" y="199.5" width="16.5" height="16.5" fill="#1B3446"/>
+  <rect x="127" y="199.5" width="16.5" height="16.5" fill="#1B3446"/>
+  <path d="M44.5 84V216" stroke="#15171A" stroke-width="1"/>
+  <path d="M28 100.5H160" stroke="#15171A" stroke-width="1"/>
+  <path d="M61 84V216" stroke="#15171A" stroke-width="1"/>
+  <path d="M28 117H160" stroke="#15171A" stroke-width="1"/>
+  <path d="M77.5 84V216" stroke="#15171A" stroke-width="1"/>
+  <path d="M28 133.5H160" stroke="#15171A" stroke-width="1"/>
+  <path d="M94 84V216" stroke="#15171A" stroke-width="1"/>
+  <path d="M28 150H160" stroke="#15171A" stroke-width="1"/>
+  <path d="M110.5 84V216" stroke="#15171A" stroke-width="1"/>
+  <path d="M28 166.5H160" stroke="#15171A" stroke-width="1"/>
+  <path d="M127 84V216" stroke="#15171A" stroke-width="1"/>
+  <path d="M28 183H160" stroke="#15171A" stroke-width="1"/>
+  <path d="M143.5 84V216" stroke="#15171A" stroke-width="1"/>
+  <path d="M28 199.5H160" stroke="#15171A" stroke-width="1"/>
+  <rect x="28" y="84" width="132" height="132" fill="none" stroke="#15171A" stroke-width="2"/>
+  <path d="M160 200H214V178H272" fill="none" stroke="#2F6B4A" stroke-width="3" stroke-linecap="square" stroke-linejoin="miter"/>
+  <rect x="272" y="173" width="10" height="10" fill="#2F6B4A"/>
+  <text x="28" y="274" font-family="Georgia,'Times New Roman',Times,serif" font-size="30" fill="#15171A" font-weight="700" letter-spacing="-0.9">Off the board.</text>
+  <text x="28" y="310" font-family="Georgia,'Times New Roman',Times,serif" font-size="15" fill="#5C6058">Chess for the thinking. Games for the</text>
+  <text x="28" y="332" font-family="Georgia,'Times New Roman',Times,serif" font-size="15" fill="#5C6058">unwind. Running for the part of the day</text>
+  <text x="28" y="354" font-family="Georgia,'Times New Roman',Times,serif" font-size="15" fill="#5C6058">nobody can reach me.</text>
+</svg>
