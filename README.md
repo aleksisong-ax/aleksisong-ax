@@ -70,31 +70,24 @@ I'm steady when the brief changes. Hand me a stack I've never used and I'll come
 
 <table>
 <tr>
-<td width="20%" valign="top">
+<td width="20%" rowspan="2" valign="top">
 <samp>THE RECORD</samp>
 </td>
-<td width="80%" valign="top">
-</td>
-</tr>
-</table>
-
-<table>
-<tr>
-<td width="7%" valign="top"><sub><b>01</b></sub></td>
-<td width="55%" valign="top">
+<td width="6%" valign="top"><sub><b>01</b></sub></td>
+<td width="46%" valign="top">
 <b>Thornbury-care</b>
 </td>
-<td width="38%" valign="top">
+<td width="28%" valign="top">
 <sub>LARAVEL · BLADE</sub><br/>
 <a href="https://github.com/aleksisong-ax/Thornbury-care">Repository</a>
 </td>
 </tr>
 <tr>
-<td width="7%" valign="top"><sub><b>02</b></sub></td>
-<td width="55%" valign="top">
+<td valign="top"><sub><b>02</b></sub></td>
+<td valign="top">
 <b>Customer-Service-Focused-Web-App</b>
 </td>
-<td width="38%" valign="top">
+<td valign="top">
 <sub>HTML · JAVASCRIPT</sub><br/>
 <a href="https://github.com/aleksisong-ax/Customer-Service--Focused-Web-App">Repository</a>
 </td>

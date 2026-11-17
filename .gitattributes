@@ -1,0 +1,2 @@
+# languages: build tooling is not part of the stack this profile documents
+assets/build_assets.py linguist-detectable=false
