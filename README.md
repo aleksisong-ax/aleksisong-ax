@@ -3,10 +3,10 @@
   Lives in the public repository named exactly aleksisong-ax/aleksisong-ax.
 
   The page is text with two pictures in it: the name plate and the board,
-  both local SVGs in assets/. Nothing is rendered as an image unless it is
-  an image — so every word here can be selected, searched, translated and
-  read aloud. Regenerate the figures with build_assets.py (kept in the
-  working copy, not in this repo).
+  both local SVGs in assets/. Nothing is set as an image unless it is an
+  image, so every word here can be selected, searched, translated and read
+  aloud. Regenerate the figures with build_assets.py (kept in the working
+  copy, not in this repo).
 
   Keep the claims true. No stats, no streak counters, no badges, no copy
   that sounds like a pitch deck.
@@ -25,29 +25,15 @@ I'm steady when the brief changes: hand me a stack I've never used and I'll come
 
 ### What I build with
 
-<table>
-<tr>
-<td width="26%"><sub>SCREEN</sub></td>
-<td>React Native · JavaScript · Blade</td>
-</tr>
-<tr>
-<td><sub>API</sub></td>
-<td>Laravel · PHP · Docker · Python</td>
-</tr>
-</table>
+**Screen** — React Native · JavaScript · Blade
+
+**API** — Laravel · PHP · Docker · Python
 
 ### What I've built
 
-<table>
-<tr>
-<td width="52%"><b>Thornbury-care</b></td>
-<td>Laravel · Blade · <a href="https://github.com/aleksisong-ax/Thornbury-care">Repository</a></td>
-</tr>
-<tr>
-<td><b>Customer-Service-Focused-Web-App</b></td>
-<td>HTML · JavaScript · <a href="https://github.com/aleksisong-ax/Customer-Service--Focused-Web-App">Repository</a></td>
-</tr>
-</table>
+**[Thornbury-care](https://github.com/aleksisong-ax/Thornbury-care)** — Laravel · Blade
+
+**[Customer-Service-Focused-Web-App](https://github.com/aleksisong-ax/Customer-Service--Focused-Web-App)** — HTML · JavaScript
 
 ---
 
@@ -55,9 +41,9 @@ Away from the keyboard it's chess for the thinking, games for the unwind, and ru
 
 <picture>
   <source media="(max-width: 600px)" srcset="assets/grass-mobile.svg">
-  <img src="assets/grass.svg" alt="A chessboard with a staircase path leading off it." width="100%">
+  <img src="assets/grass.svg" alt="A chessboard with a staircase path walking off its edge." width="100%">
 </picture>
 
 ---
 
-**aleksis.ong@github.com** — the fastest way to reach me. Also on <a href="https://github.com/aleksisong-ax">GitHub</a> and <a href="https://facebook.com/Aleksis.Ong">Facebook</a>.
+**aleksis.ong@github.com** — the fastest way to reach me. Also on [GitHub](https://github.com/aleksisong-ax) and [Facebook](https://facebook.com/Aleksis.Ong).

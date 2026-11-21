@@ -6,5 +6,5 @@
   <text x="28" y="246" font-family="Georgia,'Times New Roman',Times,serif" font-size="21" fill="#5C6058" font-style="italic">Student. I build the screen,</text>
   <text x="28" y="272" font-family="Georgia,'Times New Roman',Times,serif" font-size="21" fill="#5C6058" font-style="italic">then the API behind it.</text>
   <path d="M28 308H572" stroke="#C6C0AE" stroke-width="1"/>
-  <text x="28" y="342" font-family="ui-monospace,'SF Mono',Consolas,'Liberation Mono',Menlo,monospace" font-size="15" fill="#5C6058" letter-spacing="1.0">CAVITE, PHILIPPINES · UTC+8</text>
+  <text x="28" y="342" font-family="ui-monospace,'SF Mono',Consolas,'Liberation Mono',Menlo,monospace" font-size="17" fill="#5C6058" letter-spacing="1.1">CAVITE, PHILIPPINES · UTC+8</text>
 </svg>

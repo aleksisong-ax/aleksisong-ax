@@ -49,6 +49,6 @@
   <path d="M190 48V192" stroke="#15171A" stroke-width="1"/>
   <path d="M64 174H208" stroke="#15171A" stroke-width="1"/>
   <rect x="64" y="48" width="144" height="144" fill="none" stroke="#15171A" stroke-width="2"/>
-  <path d="M208 168H280V144H352V120H430" fill="none" stroke="#2F6B4A" stroke-width="3" stroke-linecap="square" stroke-linejoin="miter"/>
-  <rect x="430" y="115" width="10" height="10" fill="#2F6B4A"/>
+  <path d="M208 168H310V144H440V120H590V96H760V72H1074" fill="none" stroke="#2F6B4A" stroke-width="3" stroke-linecap="square" stroke-linejoin="miter"/>
+  <rect x="1074" y="67" width="10" height="10" fill="#2F6B4A"/>
 </svg>
