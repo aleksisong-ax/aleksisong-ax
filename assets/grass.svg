@@ -1,60 +1,54 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-label="A chessboard with a path leading off it: off the clock">
-  <rect x="0" y="0" width="1200" height="300" fill="#F2EEE2"/>
-  <rect x="0.5" y="0.5" width="1199" height="299" fill="none" stroke="#C6C0AE" stroke-width="1"/>
-  <text x="64" y="52" font-family="ui-monospace,'SF Mono',Consolas,'Liberation Mono',Menlo,monospace" font-size="12" fill="#9A6B12" font-weight="700" letter-spacing="2.4">FIG. 03 · OFF THE BOARD</text>
-  <text x="1136" y="52" font-family="ui-monospace,'SF Mono',Consolas,'Liberation Mono',Menlo,monospace" font-size="11" fill="#5C6058" letter-spacing="1.9" text-anchor="end">TOUCH GRASS</text>
-  <path d="M64 72H1136" stroke="#9A6B12" stroke-width="1"/>
-  <rect x="64" y="92" width="176" height="176" fill="#E6E0CE"/>
-  <rect x="86" y="92" width="22" height="22" fill="#1B3446"/>
-  <rect x="130" y="92" width="22" height="22" fill="#1B3446"/>
-  <rect x="174" y="92" width="22" height="22" fill="#1B3446"/>
-  <rect x="218" y="92" width="22" height="22" fill="#1B3446"/>
-  <rect x="64" y="114" width="22" height="22" fill="#1B3446"/>
-  <rect x="108" y="114" width="22" height="22" fill="#1B3446"/>
-  <rect x="152" y="114" width="22" height="22" fill="#1B3446"/>
-  <rect x="196" y="114" width="22" height="22" fill="#1B3446"/>
-  <rect x="86" y="136" width="22" height="22" fill="#1B3446"/>
-  <rect x="130" y="136" width="22" height="22" fill="#1B3446"/>
-  <rect x="174" y="136" width="22" height="22" fill="#1B3446"/>
-  <rect x="218" y="136" width="22" height="22" fill="#1B3446"/>
-  <rect x="64" y="158" width="22" height="22" fill="#1B3446"/>
-  <rect x="108" y="158" width="22" height="22" fill="#1B3446"/>
-  <rect x="152" y="158" width="22" height="22" fill="#1B3446"/>
-  <rect x="196" y="158" width="22" height="22" fill="#1B3446"/>
-  <rect x="86" y="180" width="22" height="22" fill="#1B3446"/>
-  <rect x="130" y="180" width="22" height="22" fill="#1B3446"/>
-  <rect x="174" y="180" width="22" height="22" fill="#1B3446"/>
-  <rect x="218" y="180" width="22" height="22" fill="#1B3446"/>
-  <rect x="64" y="202" width="22" height="22" fill="#1B3446"/>
-  <rect x="108" y="202" width="22" height="22" fill="#1B3446"/>
-  <rect x="152" y="202" width="22" height="22" fill="#1B3446"/>
-  <rect x="196" y="202" width="22" height="22" fill="#1B3446"/>
-  <rect x="86" y="224" width="22" height="22" fill="#1B3446"/>
-  <rect x="130" y="224" width="22" height="22" fill="#1B3446"/>
-  <rect x="174" y="224" width="22" height="22" fill="#1B3446"/>
-  <rect x="218" y="224" width="22" height="22" fill="#1B3446"/>
-  <rect x="64" y="246" width="22" height="22" fill="#1B3446"/>
-  <rect x="108" y="246" width="22" height="22" fill="#1B3446"/>
-  <rect x="152" y="246" width="22" height="22" fill="#1B3446"/>
-  <rect x="196" y="246" width="22" height="22" fill="#1B3446"/>
-  <path d="M86 92V268" stroke="#15171A" stroke-width="1"/>
-  <path d="M64 114H240" stroke="#15171A" stroke-width="1"/>
-  <path d="M108 92V268" stroke="#15171A" stroke-width="1"/>
-  <path d="M64 136H240" stroke="#15171A" stroke-width="1"/>
-  <path d="M130 92V268" stroke="#15171A" stroke-width="1"/>
-  <path d="M64 158H240" stroke="#15171A" stroke-width="1"/>
-  <path d="M152 92V268" stroke="#15171A" stroke-width="1"/>
-  <path d="M64 180H240" stroke="#15171A" stroke-width="1"/>
-  <path d="M174 92V268" stroke="#15171A" stroke-width="1"/>
-  <path d="M64 202H240" stroke="#15171A" stroke-width="1"/>
-  <path d="M196 92V268" stroke="#15171A" stroke-width="1"/>
-  <path d="M64 224H240" stroke="#15171A" stroke-width="1"/>
-  <path d="M218 92V268" stroke="#15171A" stroke-width="1"/>
-  <path d="M64 246H240" stroke="#15171A" stroke-width="1"/>
-  <rect x="64" y="92" width="176" height="176" fill="none" stroke="#15171A" stroke-width="2"/>
-  <path d="M240 246H302V224H370V202H446" fill="none" stroke="#2F6B4A" stroke-width="3" stroke-linecap="square" stroke-linejoin="miter"/>
-  <rect x="446" y="197" width="10" height="10" fill="#2F6B4A"/>
-  <text x="520" y="158" font-family="Georgia,'Times New Roman',Times,serif" font-size="42" fill="#15171A" font-weight="700" letter-spacing="-1.2">Off the board.</text>
-  <text x="520" y="206" font-family="Georgia,'Times New Roman',Times,serif" font-size="17" fill="#5C6058">Chess for the thinking. Games for the unwind. Running</text>
-  <text x="520" y="230" font-family="Georgia,'Times New Roman',Times,serif" font-size="17" fill="#5C6058">for the part of the day nobody can reach me.</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="240" viewBox="0 0 1200 240" role="img" aria-label="A chessboard with a staircase path leading off it.">
+  <rect x="0" y="0" width="1200" height="240" fill="#F2EEE2"/>
+  <rect x="0.5" y="0.5" width="1199" height="239" fill="none" stroke="#C6C0AE" stroke-width="1"/>
+  <rect x="64" y="48" width="144" height="144" fill="#E6E0CE"/>
+  <rect x="82" y="48" width="18" height="18" fill="#1B3446"/>
+  <rect x="118" y="48" width="18" height="18" fill="#1B3446"/>
+  <rect x="154" y="48" width="18" height="18" fill="#1B3446"/>
+  <rect x="190" y="48" width="18" height="18" fill="#1B3446"/>
+  <rect x="64" y="66" width="18" height="18" fill="#1B3446"/>
+  <rect x="100" y="66" width="18" height="18" fill="#1B3446"/>
+  <rect x="136" y="66" width="18" height="18" fill="#1B3446"/>
+  <rect x="172" y="66" width="18" height="18" fill="#1B3446"/>
+  <rect x="82" y="84" width="18" height="18" fill="#1B3446"/>
+  <rect x="118" y="84" width="18" height="18" fill="#1B3446"/>
+  <rect x="154" y="84" width="18" height="18" fill="#1B3446"/>
+  <rect x="190" y="84" width="18" height="18" fill="#1B3446"/>
+  <rect x="64" y="102" width="18" height="18" fill="#1B3446"/>
+  <rect x="100" y="102" width="18" height="18" fill="#1B3446"/>
+  <rect x="136" y="102" width="18" height="18" fill="#1B3446"/>
+  <rect x="172" y="102" width="18" height="18" fill="#1B3446"/>
+  <rect x="82" y="120" width="18" height="18" fill="#1B3446"/>
+  <rect x="118" y="120" width="18" height="18" fill="#1B3446"/>
+  <rect x="154" y="120" width="18" height="18" fill="#1B3446"/>
+  <rect x="190" y="120" width="18" height="18" fill="#1B3446"/>
+  <rect x="64" y="138" width="18" height="18" fill="#1B3446"/>
+  <rect x="100" y="138" width="18" height="18" fill="#1B3446"/>
+  <rect x="136" y="138" width="18" height="18" fill="#1B3446"/>
+  <rect x="172" y="138" width="18" height="18" fill="#1B3446"/>
+  <rect x="82" y="156" width="18" height="18" fill="#1B3446"/>
+  <rect x="118" y="156" width="18" height="18" fill="#1B3446"/>
+  <rect x="154" y="156" width="18" height="18" fill="#1B3446"/>
+  <rect x="190" y="156" width="18" height="18" fill="#1B3446"/>
+  <rect x="64" y="174" width="18" height="18" fill="#1B3446"/>
+  <rect x="100" y="174" width="18" height="18" fill="#1B3446"/>
+  <rect x="136" y="174" width="18" height="18" fill="#1B3446"/>
+  <rect x="172" y="174" width="18" height="18" fill="#1B3446"/>
+  <path d="M82 48V192" stroke="#15171A" stroke-width="1"/>
+  <path d="M64 66H208" stroke="#15171A" stroke-width="1"/>
+  <path d="M100 48V192" stroke="#15171A" stroke-width="1"/>
+  <path d="M64 84H208" stroke="#15171A" stroke-width="1"/>
+  <path d="M118 48V192" stroke="#15171A" stroke-width="1"/>
+  <path d="M64 102H208" stroke="#15171A" stroke-width="1"/>
+  <path d="M136 48V192" stroke="#15171A" stroke-width="1"/>
+  <path d="M64 120H208" stroke="#15171A" stroke-width="1"/>
+  <path d="M154 48V192" stroke="#15171A" stroke-width="1"/>
+  <path d="M64 138H208" stroke="#15171A" stroke-width="1"/>
+  <path d="M172 48V192" stroke="#15171A" stroke-width="1"/>
+  <path d="M64 156H208" stroke="#15171A" stroke-width="1"/>
+  <path d="M190 48V192" stroke="#15171A" stroke-width="1"/>
+  <path d="M64 174H208" stroke="#15171A" stroke-width="1"/>
+  <rect x="64" y="48" width="144" height="144" fill="none" stroke="#15171A" stroke-width="2"/>
+  <path d="M208 168H280V144H352V120H430" fill="none" stroke="#2F6B4A" stroke-width="3" stroke-linecap="square" stroke-linejoin="miter"/>
+  <rect x="430" y="115" width="10" height="10" fill="#2F6B4A"/>
 </svg>
