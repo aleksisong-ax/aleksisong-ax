@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="200" viewBox="0 0 600 200" role="img" aria-label="A chessboard with a staircase path leading off it.">
+  <rect x="0" y="0" width="600" height="200" fill="#16171A"/>
+  <rect x="0.5" y="0.5" width="599" height="199" fill="none" stroke="#303236" stroke-width="1"/>
+  <rect x="28" y="32" width="120" height="120" fill="#B9B5A4"/>
+  <rect x="43" y="32" width="15" height="15" fill="#123244"/>
+  <rect x="73" y="32" width="15" height="15" fill="#123244"/>
+  <rect x="103" y="32" width="15" height="15" fill="#123244"/>
+  <rect x="133" y="32" width="15" height="15" fill="#123244"/>
+  <rect x="28" y="47" width="15" height="15" fill="#123244"/>
+  <rect x="58" y="47" width="15" height="15" fill="#123244"/>
+  <rect x="88" y="47" width="15" height="15" fill="#123244"/>
+  <rect x="118" y="47" width="15" height="15" fill="#123244"/>
+  <rect x="43" y="62" width="15" height="15" fill="#123244"/>
+  <rect x="73" y="62" width="15" height="15" fill="#123244"/>
+  <rect x="103" y="62" width="15" height="15" fill="#123244"/>
+  <rect x="133" y="62" width="15" height="15" fill="#123244"/>
+  <rect x="28" y="77" width="15" height="15" fill="#123244"/>
+  <rect x="58" y="77" width="15" height="15" fill="#123244"/>
+  <rect x="88" y="77" width="15" height="15" fill="#123244"/>
+  <rect x="118" y="77" width="15" height="15" fill="#123244"/>
+  <rect x="43" y="92" width="15" height="15" fill="#123244"/>
+  <rect x="73" y="92" width="15" height="15" fill="#123244"/>
+  <rect x="103" y="92" width="15" height="15" fill="#123244"/>
+  <rect x="133" y="92" width="15" height="15" fill="#123244"/>
+  <rect x="28" y="107" width="15" height="15" fill="#123244"/>
+  <rect x="58" y="107" width="15" height="15" fill="#123244"/>
+  <rect x="88" y="107" width="15" height="15" fill="#123244"/>
+  <rect x="118" y="107" width="15" height="15" fill="#123244"/>
+  <rect x="43" y="122" width="15" height="15" fill="#123244"/>
+  <rect x="73" y="122" width="15" height="15" fill="#123244"/>
+  <rect x="103" y="122" width="15" height="15" fill="#123244"/>
+  <rect x="133" y="122" width="15" height="15" fill="#123244"/>
+  <rect x="28" y="137" width="15" height="15" fill="#123244"/>
+  <rect x="58" y="137" width="15" height="15" fill="#123244"/>
+  <rect x="88" y="137" width="15" height="15" fill="#123244"/>
+  <rect x="118" y="137" width="15" height="15" fill="#123244"/>
+  <path d="M43 32V152" stroke="#F1ECDD" stroke-width="1"/>
+  <path d="M28 47H148" stroke="#F1ECDD" stroke-width="1"/>
+  <path d="M58 32V152" stroke="#F1ECDD" stroke-width="1"/>
+  <path d="M28 62H148" stroke="#F1ECDD" stroke-width="1"/>
+  <path d="M73 32V152" stroke="#F1ECDD" stroke-width="1"/>
+  <path d="M28 77H148" stroke="#F1ECDD" stroke-width="1"/>
+  <path d="M88 32V152" stroke="#F1ECDD" stroke-width="1"/>
+  <path d="M28 92H148" stroke="#F1ECDD" stroke-width="1"/>
+  <path d="M103 32V152" stroke="#F1ECDD" stroke-width="1"/>
+  <path d="M28 107H148" stroke="#F1ECDD" stroke-width="1"/>
+  <path d="M118 32V152" stroke="#F1ECDD" stroke-width="1"/>
+  <path d="M28 122H148" stroke="#F1ECDD" stroke-width="1"/>
+  <path d="M133 32V152" stroke="#F1ECDD" stroke-width="1"/>
+  <path d="M28 137H148" stroke="#F1ECDD" stroke-width="1"/>
+  <rect x="28" y="32" width="120" height="120" fill="none" stroke="#F1ECDD" stroke-width="2"/>
+  <path d="M148 128H214V110H286V92H368V74H534" fill="none" stroke="#85BC9C" stroke-width="3" stroke-linecap="square" stroke-linejoin="miter"/>
+  <rect x="534" y="69" width="10" height="10" fill="#85BC9C"/>
+</svg>

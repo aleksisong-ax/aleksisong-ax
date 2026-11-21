@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-label="Aleksis A. Ong — Cavite, Philippines. TypeScript, React Native, PHP.">
+  <rect x="0" y="0" width="1200" height="300" fill="#16171A"/>
+  <rect x="0.5" y="0.5" width="1199" height="299" fill="none" stroke="#303236" stroke-width="1"/>
+  <text x="60" y="152" font-family="Georgia,'Times New Roman',Times,serif" font-size="92" fill="#F1ECDD" font-weight="700" letter-spacing="-2.4">Aleksis A. Ong</text>
+  <text x="64" y="198" font-family="Georgia,'Times New Roman',Times,serif" font-size="23" fill="#A0A49A" font-style="italic">Student. I build the screen, then the API behind it.</text>
+  <path d="M64 238H1136" stroke="#303236" stroke-width="1"/>
+  <text x="64" y="268" font-family="ui-monospace,'SF Mono',Consolas,'Liberation Mono',Menlo,monospace" font-size="13" fill="#A0A49A" letter-spacing="1.2">CAVITE, PHILIPPINES · UTC+8</text>
+  <text x="1136" y="268" font-family="ui-monospace,'SF Mono',Consolas,'Liberation Mono',Menlo,monospace" font-size="13" letter-spacing="1.2" text-anchor="end"><tspan fill="#8FB4CD">REACT NATIVE</tspan><tspan fill="#A0A49A"> · </tspan><tspan fill="#F1ECDD">TYPESCRIPT</tspan><tspan fill="#A0A49A"> · </tspan><tspan fill="#85BC9C">PHP</tspan></text>
+</svg>

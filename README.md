@@ -7,6 +7,10 @@
   unless it is an image, so every word here can be selected, searched,
   translated and read aloud.
 
+  Light and dark: every plate is emitted twice and swapped with <picture> +
+  prefers-color-scheme, which GitHub supports. The stack marks are mid-tone so
+  one file each is legible on either ground.
+
   The marks are open source: Simple Icons (CC0 1.0), recoloured and committed
   to assets/logos/ so nothing is hotlinked from a third-party CDN. The four
   without an open mark — generic SQL, React Native, WAMP, Java — are drawn in
@@ -18,7 +22,9 @@
 -->
 
 <picture>
+  <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/banner-mobile-dark.svg">
   <source media="(max-width: 600px)" srcset="assets/banner-mobile.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
   <img src="assets/banner.svg" alt="Aleksis A. Ong — student in Cavite, Philippines, UTC+8. TypeScript, React Native, PHP." width="100%">
 </picture>
 
@@ -49,7 +55,9 @@ I'm steady when the brief changes: hand me a stack I've never used and I'll come
 Away from the keyboard it's chess for the thinking, games for the unwind, and running for the part of the day nobody can reach me.
 
 <picture>
+  <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/grass-mobile-dark.svg">
   <source media="(max-width: 600px)" srcset="assets/grass-mobile.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/grass-dark.svg">
   <img src="assets/grass.svg" alt="A chessboard with a staircase path walking off its edge." width="100%">
 </picture>
 

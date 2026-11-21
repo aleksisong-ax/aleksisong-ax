@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="372" viewBox="0 0 600 372" role="img" aria-label="Aleksis A. Ong — student in Cavite, Philippines, UTC+8.">
+  <rect x="0" y="0" width="600" height="372" fill="#16171A"/>
+  <rect x="0.5" y="0.5" width="599" height="371" fill="none" stroke="#303236" stroke-width="1"/>
+  <text x="24" y="110" font-family="Georgia,'Times New Roman',Times,serif" font-size="78" fill="#F1ECDD" font-weight="700" letter-spacing="-2.2">Aleksis</text>
+  <text x="24" y="190" font-family="Georgia,'Times New Roman',Times,serif" font-size="78" fill="#F1ECDD" font-weight="700" letter-spacing="-2.2">A. Ong</text>
+  <text x="28" y="246" font-family="Georgia,'Times New Roman',Times,serif" font-size="21" fill="#A0A49A" font-style="italic">Student. I build the screen,</text>
+  <text x="28" y="272" font-family="Georgia,'Times New Roman',Times,serif" font-size="21" fill="#A0A49A" font-style="italic">then the API behind it.</text>
+  <path d="M28 308H572" stroke="#303236" stroke-width="1"/>
+  <text x="28" y="342" font-family="ui-monospace,'SF Mono',Consolas,'Liberation Mono',Menlo,monospace" font-size="17" fill="#A0A49A" letter-spacing="1.1">CAVITE, PHILIPPINES · UTC+8</text>
+</svg>
