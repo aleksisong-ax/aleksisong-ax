@@ -1,9 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-label="Aleksis A. Ong — Cavite, Philippines. React Native, Laravel, PHP.">
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-label="Aleksis A. Ong — Cavite, Philippines. TypeScript, React Native, PHP.">
   <rect x="0" y="0" width="1200" height="300" fill="#F2EEE2"/>
   <rect x="0.5" y="0.5" width="1199" height="299" fill="none" stroke="#C6C0AE" stroke-width="1"/>
   <text x="60" y="152" font-family="Georgia,'Times New Roman',Times,serif" font-size="92" fill="#15171A" font-weight="700" letter-spacing="-2.4">Aleksis A. Ong</text>
   <text x="64" y="198" font-family="Georgia,'Times New Roman',Times,serif" font-size="23" fill="#5C6058" font-style="italic">Student. I build the screen, then the API behind it.</text>
   <path d="M64 238H1136" stroke="#C6C0AE" stroke-width="1"/>
   <text x="64" y="268" font-family="ui-monospace,'SF Mono',Consolas,'Liberation Mono',Menlo,monospace" font-size="13" fill="#5C6058" letter-spacing="1.2">CAVITE, PHILIPPINES · UTC+8</text>
-  <text x="1136" y="268" font-family="ui-monospace,'SF Mono',Consolas,'Liberation Mono',Menlo,monospace" font-size="13" letter-spacing="1.2" text-anchor="end"><tspan fill="#1F4E6E">REACT NATIVE</tspan><tspan fill="#5C6058"> · </tspan><tspan fill="#2F6B4A">LARAVEL</tspan><tspan fill="#5C6058"> · </tspan><tspan fill="#2F6B4A">PHP</tspan></text>
+  <text x="1136" y="268" font-family="ui-monospace,'SF Mono',Consolas,'Liberation Mono',Menlo,monospace" font-size="13" letter-spacing="1.2" text-anchor="end"><tspan fill="#1F4E6E">REACT NATIVE</tspan><tspan fill="#5C6058"> · </tspan><tspan fill="#15171A">TYPESCRIPT</tspan><tspan fill="#5C6058"> · </tspan><tspan fill="#2F6B4A">PHP</tspan></text>
 </svg>

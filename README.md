@@ -2,22 +2,27 @@
   Aleksis A. Ong — profile README.
   Lives in the public repository named exactly aleksisong-ax/aleksisong-ax.
 
-  The page is text with two pictures in it: the name plate and the board,
-  both local SVGs in assets/. Nothing is set as an image unless it is an
-  image, so every word here can be selected, searched, translated and read
-  aloud. Regenerate the figures with build_assets.py (kept in the working
-  copy, not in this repo).
+  The page is text with a few pictures in it: the name plate, the board, and
+  one small mark per technology in assets/logos/. Nothing is set as an image
+  unless it is an image, so every word here can be selected, searched,
+  translated and read aloud.
 
-  Keep the claims true. No stats, no streak counters, no badges, no copy
-  that sounds like a pitch deck.
+  The marks are open source: Simple Icons (CC0 1.0), recoloured and committed
+  to assets/logos/ so nothing is hotlinked from a third-party CDN. The four
+  without an open mark — generic SQL, React Native, WAMP, Java — are drawn in
+  fetch_logos.py. Regenerate with build_assets.py and fetch_logos.py, both kept
+  in the working copy, not in this repo.
+
+  Keep the claims true. No stats, no streak counters, no badges, no copy that
+  sounds like a pitch deck.
 -->
 
 <picture>
   <source media="(max-width: 600px)" srcset="assets/banner-mobile.svg">
-  <img src="assets/banner.svg" alt="Aleksis A. Ong — student in Cavite, Philippines, UTC+8. React Native, Laravel, PHP." width="100%">
+  <img src="assets/banner.svg" alt="Aleksis A. Ong — student in Cavite, Philippines, UTC+8. TypeScript, React Native, PHP." width="100%">
 </picture>
 
-I'm **Aleksis**, a student at **Cavite State University**. I build with Laravel and PHP on the server, and with React Native when the thing needs to be in someone's pocket. Most of what's here started as coursework — ITEC75A, DCIT26 — and turned into work I wanted to finish properly.
+I'm **Aleksis**, a student at **Cavite State University**. I build with React and React Native on the screen, PHP and Java behind it, and I'm still collecting the rest. Most of what's here started as coursework — ITEC75A, DCIT26 — and turned into work I wanted to finish properly.
 
 I'm steady when the brief changes: hand me a stack I've never used and I'll come back with something that works.
 
@@ -25,9 +30,13 @@ I'm steady when the brief changes: hand me a stack I've never used and I'll come
 
 ### What I build with
 
-**Screen** — React Native · JavaScript · Blade
+**Languages** — <img src="assets/logos/javascript.svg" width="15" height="15" alt=""> JavaScript · <img src="assets/logos/typescript.svg" width="15" height="15" alt=""> TypeScript · <img src="assets/logos/java.svg" width="15" height="15" alt=""> Java · <img src="assets/logos/python.svg" width="15" height="15" alt=""> Python · <img src="assets/logos/php.svg" width="15" height="15" alt=""> PHP · <img src="assets/logos/kotlin.svg" width="15" height="15" alt=""> Kotlin · <img src="assets/logos/sql.svg" width="15" height="15" alt=""> SQL
 
-**API** — Laravel · PHP · Docker · Python
+**Frontend** — <img src="assets/logos/react.svg" width="15" height="15" alt=""> React · <img src="assets/logos/reactnative.svg" width="15" height="15" alt=""> React Native · <img src="assets/logos/tailwind.svg" width="15" height="15" alt=""> Tailwind CSS
+
+**Databases** — <img src="assets/logos/mariadb.svg" width="15" height="15" alt=""> MariaDB · <img src="assets/logos/mongodb.svg" width="15" height="15" alt=""> MongoDB · <img src="assets/logos/phpmyadmin.svg" width="15" height="15" alt=""> phpMyAdmin
+
+**Environment** — <img src="assets/logos/xampp.svg" width="15" height="15" alt=""> XAMPP · <img src="assets/logos/wamp.svg" width="15" height="15" alt=""> WAMP · <img src="assets/logos/vercel.svg" width="15" height="15" alt=""> Vercel
 
 ### What I've built
 
